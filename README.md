@@ -1,10 +1,10 @@
 # HuggingSoft
 
-> Description
+> Create Luci Theme
 
-> Goal 1 ↻: ...
+> Goal 1 ↻: light
 
-> Goal 2: ...
+> Goal 2: dark
 
 ## Screenshots
 
